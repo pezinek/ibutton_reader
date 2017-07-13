@@ -27,6 +27,8 @@ Wiring
 - iButton LED goes through R180 to D2
 - D3 goes through the factory reset button to ground
 
+![wiring](doc/ibutton_reader_bb.png)
+
 Setup
 -----
 

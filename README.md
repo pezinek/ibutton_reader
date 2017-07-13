@@ -1,5 +1,3 @@
-# ibutton_reader
-
 WiFi iButton reader for ESP8266
 ===============================
 

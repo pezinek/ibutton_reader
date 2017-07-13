@@ -23,6 +23,7 @@ Wiring
 ------
 
 - iButton reader data go to D1
+- D1 goes through R4.7K to 3.3 V
 - iButton LED goes through R180 to D2
 - D3 goes through the factory reset button to ground
 
